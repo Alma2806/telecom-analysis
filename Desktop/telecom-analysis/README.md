@@ -10,15 +10,6 @@ This project focuses on analyzing the prices of mobile and internet packages acr
 - `output/` - Output files, including graphs, results, and predictions.
 - `README.md` - Project overview and instructions.
 
-## Setup
-
-To run this project, you need the following Python packages:
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
-- jupyter
-
 
 
 ## Results
