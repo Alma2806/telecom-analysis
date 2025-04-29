@@ -11,7 +11,6 @@ This project focuses on analyzing the prices of mobile and internet packages acr
 - `README.md` - Project overview and instructions.
 
 
-
 ## Results
 
 The project includes insights into:
