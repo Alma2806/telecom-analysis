@@ -42,7 +42,6 @@ data = {
 
 df = pd.DataFrame(data)
 
-# Spremanje u CSV
 df.to_csv("data/telekom_de_mobile.csv", index=False)
 
 print("CSV fajl je uspješno kreiran!")
