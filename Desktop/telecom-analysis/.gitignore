@@ -5,3 +5,4 @@ myenv/
 myenv/
 myenv/
 .ipynb_checkpoints/
+.DS_Store
